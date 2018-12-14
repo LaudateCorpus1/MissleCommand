@@ -15,8 +15,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/game.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="305">
-              <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+            <state relative-caret-position="307">
+              <caret line="72" column="37" selection-start-line="72" selection-start-column="37" selection-end-line="72" selection-end-column="37" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -42,6 +42,11 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace>state</replace>
+    </replaceStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -53,8 +58,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="283" />
-    <option name="y" value="334" />
+    <option name="x" value="24" />
+    <option name="y" value="23" />
     <option name="width" value="1332" />
     <option name="height" value="788" />
   </component>
@@ -150,7 +155,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="283" y="334" width="1332" height="788" extended-state="0" />
+    <frame x="24" y="23" width="1332" height="788" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -192,8 +197,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/game.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="305">
-          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
+        <state relative-caret-position="307">
+          <caret line="72" column="37" selection-start-line="72" selection-start-column="37" selection-end-line="72" selection-end-column="37" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
